@@ -1,0 +1,35 @@
+<html>
+  <head>
+    <title>Simple Map</title>
+    <meta name="viewport" content="initial-scale=1.0">
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="./styles.css">
+    <link href="https://fonts.googleapis.com/css?family=Quicksand|MavenPro" rel="stylesheet">
+  </head>
+  <body>
+    <div id="category-control" class="map-control">
+      <input class="selector-control" type="checkbox" name="full-meal" value="Full Meal">
+      <label for="full-meal">Full Meal</label>
+      <input class="selector-control" type="checkbox" name="ice-cream" value="Ice Cream"> 
+      <label for="ice-cream">Ice Cream</label>
+      <input class="selector-control" type="checkbox" name="dessert" value="desesrt">
+      <label for="desesrt">Dessert</label>
+    </div>
+    <div id="map"></div>
+    <!--<script id="map-content" type="html/plain">
+      <div id="content">
+        <h1>{{EntryName}}</h1> 
+        <p><i>{{EntryAddress}}</i></p> 
+        <p>{{OpeningHours}}</p>   
+        <a target='_blank' href='{{FacebookPage}}'>
+          <img class='linkLogos' src='./assets/svg/facebook.svg'>
+        </a>
+      </div>
+    </script>-->
+    <script src="./scripts.js"></script>
+    <script async defer
+      src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDmbZcg8Ulw9JAeu1DjdfDiQmzb8B5V0vs&callback=initMap">
+    </script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+  </body>
+</html>
