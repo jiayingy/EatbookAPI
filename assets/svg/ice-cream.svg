@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 15.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="512px" height="512px" viewBox="0 0 512 512" enable-background="new 0 0 512 512" xml:space="preserve">
+<g>
+	
+		<image overflow="visible" opacity="0.38" width="2117" height="2117" xlink:href="B0640E0E.png"  transform="matrix(0.24 0 0 0.24 1.8208 2)">
+	</image>
+	<g>
+		<circle fill="#FFFFFF" cx="255.821" cy="255.999" r="224"/>
+	</g>
+</g>
+<g>
+	
+		<rect x="146.707" y="124.262" transform="matrix(0.833 -0.5533 0.5533 0.833 -72.6819 132.2756)" fill="#E8AF80" stroke="#000000" stroke-width="4" stroke-miterlimit="10" width="72.068" height="124.51"/>
+	
+		<rect x="257.38" y="225.067" transform="matrix(-0.2671 -0.9637 0.9637 -0.2671 112.7127 537.5164)" fill="#FFFFFF" stroke="#000000" stroke-width="4" stroke-miterlimit="10" width="6.763" height="1.659"/>
+	<circle fill="#FFFFFF" stroke="#000000" stroke-width="4" stroke-miterlimit="10" cx="262.841" cy="177.007" r="68.773"/>
+	<circle fill="#F9B5A4" stroke="#000000" stroke-width="4" stroke-miterlimit="10" cx="214.582" cy="245.778" r="68.773"/>
+	<polygon fill="#F2B16B" stroke="#000000" stroke-width="4" stroke-miterlimit="10" points="169.75,290.607 263.819,453.541 
+		357.889,290.607 	"/>
+	<g>
+		<defs>
+			<polygon id="SVGID_1_" points="169.75,290.607 263.819,453.541 357.889,290.607 			"/>
+		</defs>
+		<clipPath id="SVGID_2_">
+			<use xlink:href="#SVGID_1_"  overflow="visible"/>
+		</clipPath>
+		<g clip-path="url(#SVGID_2_)">
+			<rect x="161.424" y="312.67" fill="#F6D6B5" width="199.898" height="6.936"/>
+			<rect x="161.424" y="290.209" fill="#F6D6B5" width="199.898" height="6.936"/>
+			<rect x="161.424" y="335.914" fill="#F6D6B5" width="199.898" height="6.936"/>
+			<rect x="161.424" y="361.893" fill="#F6D6B5" width="199.898" height="6.938"/>
+			<rect x="161.424" y="385.82" fill="#F6D6B5" width="199.898" height="6.936"/>
+			<rect x="161.424" y="409.031" fill="#F6D6B5" width="199.898" height="6.936"/>
+			<rect x="161.424" y="429.537" fill="#F6D6B5" width="199.898" height="6.936"/>
+			<rect x="194.833" y="263.414" fill="#F6D6B5" width="6.937" height="201.717"/>
+			<rect x="216.709" y="263.414" fill="#F6D6B5" width="6.937" height="201.717"/>
+			<rect x="238.427" y="263.414" fill="#F6D6B5" width="6.938" height="201.717"/>
+			<rect x="258.454" y="263.414" fill="#F6D6B5" width="6.936" height="201.717"/>
+			<rect x="279.281" y="263.414" fill="#F6D6B5" width="6.937" height="201.717"/>
+			<rect x="299.888" y="263.414" fill="#F6D6B5" width="6.937" height="201.717"/>
+			<rect x="320.378" y="263.414" fill="#F6D6B5" width="6.937" height="201.717"/>
+			<rect x="342.245" y="263.414" fill="#F6D6B5" width="6.937" height="201.717"/>
+		</g>
+	</g>
+	<polygon fill="none" stroke="#000000" stroke-width="4" stroke-miterlimit="10" points="169.75,290.607 263.819,453.541 
+		357.889,290.607 	"/>
+	
+		<rect x="166.4" y="289.779" fill="#5B3815" stroke="#000000" stroke-width="4" stroke-miterlimit="10" width="192.318" height="15.752"/>
+	<circle fill="#5B3815" stroke="#000000" stroke-width="4" stroke-miterlimit="10" cx="312.833" cy="249.78" r="68.773"/>
+</g>
+</svg>
